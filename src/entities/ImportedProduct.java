@@ -33,7 +33,7 @@ public class ImportedProduct extends Product{
 	@Override
 	public String priceTag() {
 		return toString();
-	}
+	} 
 	
 	
 	public double totalPrice() {
